@@ -156,6 +156,7 @@ endif
 
 " -- CUSTOM --
 let mapleader = "\<Space>"
+
 filetype plugin indent on
 set tabstop=2
 set shiftwidth=2
